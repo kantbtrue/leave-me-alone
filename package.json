@@ -1,21 +1,19 @@
 {
-  "name": "twbst",
+  "name": "leave-me-alone",
   "version": "1.0.0",
   "type": "module",
-  "description": "A WordPress block starter theme with tailwind css for WordPress theme developers.",
+  "description": "A simple WordPress block theme for under construction, admin tasks.",
   "author": "kantbtrue, savydv",
   "license": "GPL-2.0-or-later",
   "keywords": [
-    "Full Site Editing",
-    "Block Theme",
-    "Tailwind CSS",
+    "under construction",
+    "admin",
     "WordPress",
     "Theme"
   ],
-  "homepage": "https://example.com/twbst",
   "repository": {
     "type": "git",
-    "url": "https://github.com/kanbtrue/twbst.git"
+    "url": "https://github.com/kantbtrue/leave-me-alone.git"
   },
   "engines": {
     "node": ">=14.15.0",

@@ -13,18 +13,18 @@
  * 
  * @since 1.0.0
  */
-function product_docs_style() {
+function leave_me_alone_style() {
 	wp_enqueue_style(
-		'product-docs-style',
+		'leave-me-alone-style',
 		get_stylesheet_uri(),
 		array(),
 		wp_get_theme()->get( 'Version' )
 	);
 	wp_enqueue_style(
-		'product-docs-tailwind',
+		'leave-me-alone-tailwind',
 		get_theme_file_uri( '/build/css/style.css' ),
 		array(),
 		wp_get_theme()->get( 'Version' )
 	);
 }
-add_action( 'wp_enqueue_scripts', 'product_docs_style' );
+add_action( 'wp_enqueue_scripts', 'leave_me_alone_style' );
