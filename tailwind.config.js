@@ -1,11 +1,12 @@
-/** @type {import('tailwindcss').Config} */
 export default {
-  content: [
-    './**/*.html',
-  ],
+  content: ["./**/*.html"],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        hindi: ["Noto Sans Devanagari", "sans-serif"],
+        inter: ["Inter", "sans-serif"],
+      },
+    },
   },
   plugins: [],
-}
-
+};
