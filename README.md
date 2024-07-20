@@ -8,7 +8,7 @@ This theme is specifically designed for admin purposes and to showcase under con
 
 ## Installation
 
-1. Download the theme files from the [Leave Me Alone Theme repository](https://github.com/your-repository-link).
+1. Download the theme files from the [Leave Me Alone Theme repository](https://github.com/kantbtrue/leave-me-alone).
 
 2. Extract the downloaded files to the `/wp-content/themes/leave-me-alone` directory of your WordPress installation.
 
@@ -20,6 +20,6 @@ This theme is specifically designed for admin purposes and to showcase under con
 
 ## Support
 
-If you encounter any issues or have any questions regarding the Leave Me Alone theme, please reach out to our support team at [support@example.com](mailto:support@example.com).
+If you encounter any issues or have any questions regarding the Leave Me Alone theme, please reach out to our support team at [support@example.com](shashikant1989yadav@gmail.com).
 
 We appreciate your interest in using the Leave Me Alone theme for your admin purposes and under construction site showcase. Happy developing!
